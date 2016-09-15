@@ -66,7 +66,7 @@ class APIConnector {
     
     // Dictionary of servers and their base URLs
     let kServers = [
-        "Production" :   "https://api.tidepool.org",
+        "Production" :   "https://int-api.tidepool.org",
         "Staging" :      "https://stg-api.tidepool.org",
         "Development" :  "https://dev-api.tidepool.org",
     ]
